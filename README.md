@@ -2,6 +2,15 @@
 
 Candidate Project - Web Client
 
+## Features
+
+- List all images
+- Thumbnail view of the images and its author
+- Click on an image and inspect its details
+- Mark any given image as "important" or "unimportant"
+- Filter to see only the images marked as important
+- Filter the list by the name of the author
+
 ## Prerequisites
 
 * npm version 6.x
